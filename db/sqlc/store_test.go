@@ -4,7 +4,6 @@ import (
 	"context"
 	"fmt"
 	"testing"
-	"util"
 
 	"github.com/stretchr/testify/require"
 )
